@@ -8,7 +8,7 @@ FIT FLEX Description: an application based website for setting personal fitness,
  https://erikagonzalez64.github.io/2project/
 
 # Built With
--Bootstrap 4 (Front-end framework) -Express.js (Server framework) -Handlebars (Templating engine) -Heroku (Cloud platform) -JawsDB (Heroku database add-on) -MySQL (RDBMS) -Node.js (Javascript environment)
+-Bootstrap 4 (Front-end framework) -Express.js (Server framework) -Handlebars (Templating engine) -Heroku (Cloud platform) -JawsDB (Heroku database add-on) -MySQL (RDBMS) -Node.js (Javascript environment) ///// tried to
 
 Sequelize (ORM)
 
