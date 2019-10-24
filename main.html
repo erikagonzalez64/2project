@@ -76,13 +76,13 @@ ul li.checked::before {
 }
 
 .close:hover {
-  background-color: #f44336;
+  background-color: rgb(153, 65, 153);
   color: white;
 }
 
 /* Style the header */
 .header {
-  background-color: #f44336;
+  background-color:  rgb(153, 65, 153); 
   padding: 30px 40px;
   color: white;
   text-align: center;
@@ -128,16 +128,14 @@ input {
 <body>
 
 <div id="myDIV" class="header">
-  <h2 style="margin:5px">My To Do List</h2>
+  <h2 style="margin:5px">Goal Tracker List</h2>
   <input type="text" id="myInput" placeholder="Title...">
   <span onclick="newElement()" class="addBtn">Add</span>
 </div>
 
 <ul id="myUL">
-  <li>Hit the gym</li>
-  <li class="checked">Pay bills</li>
-  <li>Meet George</li>
-  <li>Buy eggs</li>
+  <li>Go to the gym 4x a week</li>
+  <li class="checked">Pay bills on time</li>
   <li>Read a book</li>
   <li>Organize office</li>
 </ul>
